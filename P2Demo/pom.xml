@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.revature</groupId>
 	<artifactId>P2Demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>P2Demo</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>

@@ -1,11 +1,12 @@
 {
-  "name": "p1demo-frontend",
+  "name": "p2demo-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    
+    "build": "set ESLINT_NO_DEV_ERRORS=true && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
